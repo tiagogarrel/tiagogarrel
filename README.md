@@ -23,7 +23,7 @@ Currently completing an **MSc in Big Data & Analytics** at EAE Business School w
 
 **[Screen Time Tracker](https://github.com/tiagogarrel/ScreentimeTracker)** — Lightweight Streamlit app to log daily screen time, store it in Google Sheets, and visualize habits with streaks, heatmaps, and custom analytics.
 
-**[Project ETL](https://github.com/tiagogarrel/Project_ETL)** ** — Automated daily sales pipeline built with Python and MySQL. Covers extraction, transformation, loading, and scheduling.
+**[Project ETL](https://github.com/tiagogarrel/Project_ETL)** — Automated daily sales pipeline built with Python and MySQL. Covers extraction, transformation, loading, and scheduling.
 
 ---
 
@@ -67,7 +67,7 @@ Actualmente cursando un **Máster en Big Data & Analytics** en EAE Business Scho
 
 **[Screen Time Tracker](https://github.com/tiagogarrel/ScreentimeTracker)** — App en Streamlit para registrar el tiempo de pantalla diario, guardarlo en Google Sheets y visualizar hábitos con rachas, heatmaps y métricas personalizadas.
 
-**[Project ETL](https://github.com/tiagogarrel/Project_ETL)** ** — Pipeline automatizado de ventas diarias con Python y MySQL. Cubre extracción, transformación, carga y scheduling.
+**[Project ETL](https://github.com/tiagogarrel/Project_ETL)**  — Pipeline automatizado de ventas diarias con Python y MySQL. Cubre extracción, transformación, carga y scheduling.
 
 ---
 
