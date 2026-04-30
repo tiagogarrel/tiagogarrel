@@ -37,7 +37,7 @@ Currently completing an **MSc in Big Data & Analytics** at EAE Business School w
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/tiago-garrel/) · [Email](mailto:tiagogarrel@hotmail.com) · Portfolio *(coming soon)*
+[LinkedIn](https://www.linkedin.com/in/tiago-garrel/) · [Email](mailto:tiagogarrel@hotmail.com) ·  [Portfolio](https://tiagogarrel.github.io/personal_webpage/)
 
 ---
 ---
@@ -81,4 +81,4 @@ Actualmente cursando un **Máster en Big Data & Analytics** en EAE Business Scho
 
 ## Encontrame en
 
-[LinkedIn](https://www.linkedin.com/in/tiago-garrel/) · [Email](mailto:tiagogarrel@hotmail.com) · Portfolio **
+[LinkedIn](https://www.linkedin.com/in/tiago-garrel/) · [Email](mailto:tiagogarrel@hotmail.com) · [Portfolio](https://tiagogarrel.github.io/personal_webpage/)
