@@ -10,8 +10,9 @@ Currently completing an **MSc in Big Data & Analytics** at EAE Business School.
 
 ## Currently working on
 
+- WebApp to evaluate bikes in Barcelona´s public bike system [BicingCheck](https://bicing-check.vercel.app/)
+- Publishing AI, data and tech content → [blog](https://tiagogarrel.github.io/personal_webpage/#blog) [TikTok](https://www.tiktok.com/@tiagogarrel) 
 - AI-powered CV tuning & job application tracking platform
-- Publishing AI and data engineering content → [blog](https://tiagogarrel.github.io/personal_webpage/#blog)
 
 ---
 
